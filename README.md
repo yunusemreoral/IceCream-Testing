@@ -1,4 +1,4 @@
-# IceCream Testing 🦠
+# IceCream Testing 🍨🍦
 
 <li>Bu proje farklı tercihlerin sunulduğu Dondurma sipariş sitesidir.</li>
 <li>Ürün tercihine göre ekleme,adet artırma,silme,sipariş verme özelliği bulunmaktadır.</li>
